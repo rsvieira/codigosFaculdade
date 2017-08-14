@@ -22,8 +22,4 @@ public class CharRepetido {
 		return Boolean.TRUE;
 	}
 	
-	public static void main(String[] args) {
-		System.out.println(verificaCharRepetido("ramon santos vieira", 'a'));
-	}
-	
 }
